@@ -24,4 +24,4 @@ for i in range(num_rows):
         
         func1.func( wells=well,webpath=batch,patterns=pattern,directory=r"E:\test_python\all_wrky_selex_seed")
     sys.stdout = sys.__stdout__
-    print("#########<<<<done>>>>#########")
+    print("#########<<<<done>>>>#########") 

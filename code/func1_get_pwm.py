@@ -70,7 +70,7 @@ def func(wells,webpath,patterns,directory):
             element.click()# 
     driver.quit()#退出浏览器
 
-    
+     
 if __name__=='__main__':
     #list_A = [f"A{i}" for i in range(1, 13)]
     #list_B = [f"B{i}" for i in range(1, 13)]
