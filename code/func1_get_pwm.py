@@ -68,7 +68,7 @@ def func(wells,webpath,patterns,directory):
             driver.switch_to.default_content()#
             element = driver.find_element_by_id(well)
             element.click()# 
-    driver.quit()#退出浏览器
+    driver.quit()#退出浏览器 
 
      
 if __name__=='__main__':
